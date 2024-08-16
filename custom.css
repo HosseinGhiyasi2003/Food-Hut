@@ -1,0 +1,8 @@
+.Btn {
+  background-color: var(--danger-color);
+  color: #fff;
+  padding: 10px;
+  border-radius: 100px;
+  border: none;
+  outline: none;
+}

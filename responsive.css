@@ -1,0 +1,27 @@
+@media screen and (max-width: 992px) {
+  .header-content h1 {
+    font-size: 40px;
+  }
+  .header-content-desc {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .menu-title {
+    font-size: 28px;
+  }
+  .menu-desc {
+    font-size: 12px;
+  }
+  .about h1 {
+    font-size: 20px;
+  }
+  .about p {
+    font-size: 12px;
+  }
+  .about button {
+    margin-top: 20px;
+    font-size: 12px;
+  }
+}
